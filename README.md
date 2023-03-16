@@ -1,10 +1,10 @@
-# Outbreak detection of coronavirus disease epidemic: Transmission dynamics using machine learning techniques
+# Outbreak detection of coronavirus disease epidemic
 
 This is the code used in 
 
-'Outbreak detection of COVID-19 epidemic: Transmission dynamics using machine learning techniques'  
+'Outbreak detection of coronavirus disease epidemic: Transmission dynamics using machine learning techniques'  
 
-Giphil Cho1, Jeong Rye Park, Yongin Choi, Hyeonjeong Ahn, Hyojung Lee
+Giphil Cho, Jeong Rye Park, Yongin Choi, Hyeonjeong Ahn, Hyojung Lee
 
 [link]()
 
